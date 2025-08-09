@@ -290,6 +290,7 @@ img.template-preview {
     user-select: none;
 }
 
+
 .funkyradio input[type="radio"]:empty ~ label:before,
 .funkyradio input[type="checkbox"]:empty ~ label:before {
     position: absolute;
@@ -467,3 +468,4 @@ hr.invoice-above-table {
     font-size: var(--font-size-common-1);
 }
 
+/* custom css */

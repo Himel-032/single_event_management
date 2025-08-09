@@ -6,6 +6,7 @@
     });
     $('.icp_demo').iconpicker();
 
+    
     $('#datepicker').datepicker({
         dateFormat: 'yyyy-mm-dd',
         language: {
